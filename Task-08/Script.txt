@@ -1,5 +1,0 @@
-
-curl -X GET https://api.github.com/orgs/amfoss/repos\?search/perceval?language=python
-
-
-
