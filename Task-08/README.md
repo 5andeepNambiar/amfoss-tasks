@@ -1,1 +1,1 @@
-After googling and reading through <a href="https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#list-organization-repositories">Docs</a> i managed to write a script but not sure if its the required correct one. 
+
