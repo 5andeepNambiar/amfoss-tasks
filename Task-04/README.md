@@ -1,0 +1,1 @@
+At first, i thought this was a difficult task since there was 400+ lines of java code to debug. But after reading through the lines of code it was just absolutely simple and i was able to complete the the task with the basics of java that i learned during the pandemic days.Also, most of the errors were similar to that of C++ so it was easy to find and debug.
