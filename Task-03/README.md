@@ -1,1 +1,1 @@
-I didn't push the code for this task since i was not able to get the desired output for the questions. C++ is a very challenging language for me and i guess maybe that's the reason i am not able to do the hackkerrank questions.
+The problems were pretty tough and challenging but i enjoyed doing them. I experienced a lot of difficulty due to timeout errors and had to change the entire code.
