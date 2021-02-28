@@ -18,7 +18,7 @@ This is Sandeep, fresher at Amrita school of Engineering(CSE 2020)
 | <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-14">Task-14</a> | Bandit | 
 | <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-15">Task-15</a> | Project Euler | 
 |  |  |
-| <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-05">Task-05</a> | Web-Scraping using Rust (*Incomplete*) |
+| <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-05">Task-05</a> | Web-Scraping using Rust (*Pending*) |
 | <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-06">Task-06</a> | Geddit (*Pending*) |
 | <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-07">Task-07</a> | Ubiquitous UI (*Pending*) |
 | <a href="https://github.com/5andeepNambiar/amfoss-tasks/tree/master/Task-12">Task-12</a> | Codechef Problem(*Pending*) | 
